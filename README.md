@@ -5,18 +5,6 @@ A feature-rich web application for random number selection with customizable ent
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Game Modes](#game-modes)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 
 Random Picker Game is an interactive React-based application that generates random selections from a user-defined range of numbers. Each number can be mapped to custom strings, making it perfect for various use cases including raffles, team assignments, classroom activities, and decision-making tools.
@@ -35,30 +23,3 @@ Random Picker Game is an interactive React-based application that generates rand
 - **Progress Indicators**: Track remaining entries in No-Repeat mode
 - **Reset Functionality**: Quickly restart with new configuration
 
-## Demo
-
-### Workflow
-
-1. Enter starting and ending numbers
-2. Customize entry labels (or keep default values)
-3. Select game mode
-4. Spin to get random result
-5. Reset and repeat as needed
-
-### Screenshots
-
-Add screenshots here showing:
-- Range selection screen
-- Entry customization interface
-- Game screen with results
-- No-Repeat mode tracking
-
-## Installation
-
-### Prerequisites
-
-- Node.js (version 14 or higher)
-- npm or yarn package manager
-
-### Steps
-```bash
